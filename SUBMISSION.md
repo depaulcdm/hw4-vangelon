@@ -29,7 +29,8 @@ https://github.com/depaulcdm/hw4-vangelon/blob/master/hello-world/ivy.xml
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
 ![Screen Capture #1](images/mvn1.PNG)
 - [10 pts] A screen capture showing a successful build using the Maven script.
-![Screen Capture #1](images/mvn2.PNG)
+![Screen Capture #1](images/mvn2a.PNG)
+![Screen Capture #1](images/mvn2b.PNG)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
 ![Screen Capture #1](images/mvn3.PNG)
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
